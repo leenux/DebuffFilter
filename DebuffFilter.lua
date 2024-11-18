@@ -1,6 +1,6 @@
 local DebuffFilter_DefaultSettings = {
-	debuffs = "yes",
-	buffs = "no",
+	debuffs = "no",
+	buffs = "yes",
 	fdebuffs = "no",
 	fbuffs = "no",
 	scale = 1,
